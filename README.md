@@ -4,7 +4,7 @@ In this project, we will execute an End-To-End Data Engineering Project on Real-
 
 ## Technologies Used:
 - Programming language: Python
-- Cloud platform - AAmazon Web Services (AWS)
+- Cloud platform - Amazon Web Services (AWS)
 1. S3
 2. Athena
 3. Glue crawler
